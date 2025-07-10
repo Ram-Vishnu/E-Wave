@@ -19,7 +19,7 @@ Before you begin, ensure you have met the following requirements:
 
 To install **EWAVE**, follow these steps:
 
-Linux and macOS:
+Linux and macOS: works on both macos and winndows os 
 
 ```bash
 sudo git clone https://github.com/codewithsadee/Ewave-ecommerce-website.git
